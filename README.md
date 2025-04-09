@@ -56,7 +56,7 @@
   <a href="https://instagram.com/leoo.motaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/leonardomota04" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-pereira-mota/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
