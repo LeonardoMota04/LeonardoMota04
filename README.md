@@ -3,18 +3,8 @@
 - 🍎 I’m an Alumni at the Apple Developer Academy in Brazil - Brasília.
 - 📱 I have 5 published Apps on the App Store, covering iOS, watchOS, macOS and iPadOS.
 - 🏆 I’m a 2x WWDC Swift Student Challenge Winner (2024 & 2025).
-- 🎓 Software Engineering student at UCB - Universidade Católica de Brasília (Graduating Dec 2025).
+- 🎓 Software Engineer - UCB, Universidade Católica de Brasília
 - 🚀 My goal is to master the mobile world — starting with deep iOS expertise and now diving into Flutter and other hybrid frameworks to build experiences that reach everyone, everywhere.
-
-##
-
-<div align="left">
-  <a href="https://github.com/LeonardoMota04">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMota04&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
-##
 
 ### 🖥️ Languages & Frameworks
 <p align="left"> 
